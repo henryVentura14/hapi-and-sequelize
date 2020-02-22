@@ -1,4 +1,4 @@
-# Hapi and sequelice
+# Hapi and sequelize
 
 
 ## Installation of dependencies
